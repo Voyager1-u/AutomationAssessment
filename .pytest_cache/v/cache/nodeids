@@ -1,0 +1,4 @@
+[
+  "tests/web/test_web_flow.py::test_complete_web_flow",
+  "tests/web/test_web_flow.py::test_register_user"
+]
