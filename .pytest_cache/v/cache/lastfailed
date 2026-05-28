@@ -1,1 +1,3 @@
-{}
+{
+  "tests/web/test_web_flow.py::test_complete_web_flow": true
+}

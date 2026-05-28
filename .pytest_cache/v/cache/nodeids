@@ -1,4 +1,14 @@
 [
+  "tests/API/test_api_users.py::test_create_user",
+  "tests/API/test_api_users.py::test_delete_user",
+  "tests/API/test_api_users.py::test_get_user",
+  "tests/API/test_api_users.py::test_invalid_endpoint",
+  "tests/API/test_api_users.py::test_invalid_payload",
+  "tests/API/test_api_users.py::test_non_existing_user",
+  "tests/API/test_api_users.py::test_update_user",
+  "tests/App/test_mobile_calculator.py::test_mobile_calculator",
+  "tests/App/test_mobile_calculator.py::test_wikipedia_app",
   "tests/web/test_web_flow.py::test_complete_web_flow",
-  "tests/web/test_web_flow.py::test_register_user"
+  "tests/web/test_web_flow.py::test_register_user",
+  "tests/windowss/test_notepad.py::test_notepad_automation"
 ]
