@@ -1,0 +1,57 @@
+# =========================
+# Core Testing Framework
+# =========================
+pytest==8.2.0
+pytest-html==4.1.1
+pytest-xdist==3.6.1
+pytest-mock==3.14.0
+
+# =========================
+# UI Automation (Selenium)
+# =========================
+selenium==4.21.0
+webdriver-manager==4.0.1
+
+# =========================
+# API Automation
+# =========================
+requests==2.32.3
+jsonschema==4.23.0
+
+# =========================
+# Windows / Desktop Automation (Notepad etc.)
+# =========================
+pywinauto==0.6.8
+pyautogui==0.9.54
+pygetwindow==0.0.9
+
+# =========================
+# BrowserStack Cloud Execution
+# =========================
+Appium-Python-Client==4.0.0
+
+# =========================
+# Logging & Debugging
+# =========================
+loguru==0.7.2
+
+# =========================
+# Test Data Handling
+# =========================
+openpyxl==3.1.2
+pandas==2.2.2
+
+# =========================
+# Environment & Config
+# =========================
+python-dotenv==1.0.1
+
+# =========================
+# Reporting
+# =========================
+allure-pytest==2.13.5
+
+# =========================
+# Utilities
+# =========================
+urllib3==2.2.2

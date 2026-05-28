@@ -1,7 +1,7 @@
 
 # 🚀 Automation Testing Framework
 
-This repository contains a complete automation testing suite covering **Web UI Automation, Windows Desktop Automation, Wiki Application Automation, and API Automation** using Python-based frameworks and industry-standard tools.
+This repository contains a complete automation testing suite covering **Web UI Automation, Windows Desktop Automation, Wiki Mobile App Automation, and API Automation** using Python-based frameworks and industry-standard tools.
 
 ---
 
@@ -11,7 +11,7 @@ This automation framework is designed to validate end-to-end application workflo
 
 - 🌐 Web Automation (Selenium)
 - 🪟 Windows Notepad Automation (Pywinauto / PyAutoGUI)
-- 📱 Wiki Application Automation (API/UI hybrid validation depending on implementation)
+- 📱 Wiki App Automation (Used Cloud platform Browserstack to test Wiki app in Andriod device)
 - 🔌 API Automation (Requests / Pytest)
 
 The framework is built with scalability, maintainability, and modular structure in mind.
@@ -58,8 +58,8 @@ automation-framework/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/automation-framework.git
-cd automation-framework
+git clone https://github.com/Voyager1-u/AutomationAssessment
+cd AutomationAssessment
 ```
 
 ### 2️⃣ Create Virtual Environment (Recommended)
